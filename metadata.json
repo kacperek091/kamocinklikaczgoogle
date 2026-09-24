@@ -1,0 +1,6 @@
+{
+  "name": "Kamocin Clicker: Wiejska Przygoda",
+  "description": "Rozbudowana wiejska gra clicker z krówkami z legendarnej wsi Kamocin. Dojenie, ulepszenia obory, minigry, festyny i wielkie imperium mleczarskie!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
